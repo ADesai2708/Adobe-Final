@@ -1,0 +1,7 @@
+PyMuPDF==1.26.3
+pytest
+pymupdf
+sentence-transformers
+torch
+scikit-learn
+tqdm

@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job": "Prepare a literature review on GNNs, datasets, and benchmarks",
+    "timestamp": "2025-07-28 15:35:25.370849"
+  },
+  "sections": [
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 5,
+      "section_title": "\u2022 ",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 9,
+      "section_title": "\u2022 ",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 5,
+      "section_title": "\u2022 ",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 9,
+      "section_title": "\u2022 ",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 9,
+      "section_title": "\u2022 ",
+      "importance_rank": 5
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 8,
+      "section_title": "\u2022 ",
+      "importance_rank": 6
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 7,
+      "section_title": "\u2022 ",
+      "importance_rank": 7
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 5,
+      "section_title": "\u2022 ",
+      "importance_rank": 8
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 10,
+      "section_title": "\u2022 ",
+      "importance_rank": 9
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 5,
+      "section_title": "\u2022 ",
+      "importance_rank": 10
+    }
+  ],
+  "subsections": [
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 5,
+      "refined_text": "\u2022 \nSarlat: Join a foie gras workshop and learn to prepare this delicacy."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 9,
+      "refined_text": "\u2022 \nCit\u00e9 de l'Espace: This space-themed science museum features interactive exhibits, a \nplanetarium, and a replica of the Mir space station It's an engaging and educational \nexperience for visitors of all ages."
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 5,
+      "refined_text": "\u2022 \nP\u00e9rigord: Join a tru\ufb04e hunting tour followed by a cooking class."
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 9,
+      "refined_text": "\u2022 \nToulouse: Visit Cit\u00e9 de l'Espace for a space-themed science museum with interactive \nexhibits, a planetarium, and a replica of the Mir space station."
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 9,
+      "refined_text": "\u2022 \nToulouse: Visit the Cit\u00e9 de l'Espace, a space-themed science museum with interactive \nexhibits."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 8,
+      "refined_text": "\u2022 \nNotebook: Bring a notebook to jot down notes about the wines you taste."
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "page": 7,
+      "refined_text": "\u2022 \nGuidebook: A guidebook or map to help navigate and find points of interest."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 5,
+      "refined_text": "\u2022 \nMarc Chagall National Museum: Explore the works of Marc Chagall at this dedicated \nmuseum."
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "page": 10,
+      "refined_text": "\u2022 \nMontpellier: Discover the Planet Ocean World, an aquarium and planetarium with \ninteractive exhibits."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page": 5,
+      "refined_text": "\u2022 \nParc Phoenix: Discover the botanical wonders at Parc Phoenix, a beautiful garden and \npark."
+    }
+  ]
+}

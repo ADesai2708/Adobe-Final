@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Build and cache
+build/
+dist/
+.cache/
+*.log
+
+# Uploads and generated data
+backend/uploads/
+
+# IDE and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# ML / large artifacts (optional local models)
+*.pt
+*.bin

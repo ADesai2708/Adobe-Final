@@ -1,0 +1,7 @@
+pytesseract
+opencv-python
+Pillow
+PyMuPDF
+langdetect
+fastapi
+uvicorn[standard]

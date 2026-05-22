@@ -1,0 +1,12 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: #fafafa; }
+.container { max-width: 1200px; margin: auto; padding: 20px; }
+.header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+.card { background: #fff; padding: 1rem; margin: 0.5rem 0; border-radius: 12px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+button { background: #007bff; color: white; padding: 0.5rem 1rem; border-radius: 8px; border: none; cursor: pointer; }
+button:disabled { background: #aaa; cursor: not-allowed; }
+.pdf-container { height: 70vh; border: 1px solid #ddd; border-radius: 8px; }
+.toast { position: fixed; top: 20px; right: 20px; background: black; color: white; padding: 10px 20px; border-radius: 8px; }
+.grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 20px; }
+.side { display: flex; flex-direction: column; gap: 1rem; }
+.snippet-list { list-style: none; padding: 0; }
+.snippet-list li { padding: 0.5rem 0; border-bottom: 1px solid #eee; }
